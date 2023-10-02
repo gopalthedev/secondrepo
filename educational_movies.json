@@ -7,6 +7,14 @@ educational_movies = [
         "year": 2014,
         "category": "Science"
     },
+      {
+        "id": 0,
+        "title": "Cosmos: A Spacetime Odyssey",
+        "description": "Exploring the universe and science.",
+        "director": "Neil deGrasse Tyson",
+        "year": 2014,
+        "category": "Science"
+    },
     {
         "id": 2,
         "title": "An Inconvenient Truth",
