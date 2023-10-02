@@ -1,0 +1,26 @@
+educational_movies = [
+    {
+        "id": 1,
+        "title": "Cosmos: A Spacetime Odyssey",
+        "description": "Exploring the universe and science.",
+        "director": "Neil deGrasse Tyson",
+        "year": 2014,
+        "category": "Science"
+    },
+    {
+        "id": 2,
+        "title": "An Inconvenient Truth",
+        "description": "Climate change documentary.",
+        "director": "Davis Guggenheim",
+        "year": 2006,
+        "category": "Environmental"
+    },
+    {
+        "id": 3,
+        "title": "Blackfish",
+        "description": "Documentary about killer whales in captivity.",
+        "director": "Gabriela Cowperthwaite",
+        "year": 2013,
+        "category": "Biology"
+    }
+]
